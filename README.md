@@ -8,7 +8,7 @@
 
 ### If any errors occur try using:
 
-#####**npm** i *dependencies* --force 
+##### **npm** i *dependencies* --force 
 
 
 
